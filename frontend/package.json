@@ -2,7 +2,7 @@
   "name": "wally",
   "author": "Florian Didron<0x6664@hey.com>",
   "version": "0.1.0",
-  "private": true,
+  "private": true, 
   "dependencies": {
     "@wailsapp/runtime": "^1.0.10",
     "core-js": "^3.6.4",
